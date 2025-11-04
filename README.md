@@ -5,15 +5,21 @@ To develop and implement a CUDA-based GPU program that converts a color image in
 
 ## APPARATUS REQUIRED:
 **SOFTWARE**
-Google Colab
-Python 3.x
-Libraries: opencv-python, cupy-cuda12x, numpy
+
+1.Google Colab
+
+2.Python 3.x
+
+3.Libraries: opencv-python, cupy-cuda12x, numpy
 
 **HARDWARE**
-NVIDIA GPU (CUDA supported)
-Internet connection (for Colab runtime)
+
+1.NVIDIA GPU (CUDA supported)
+
+2.Internet connection (for Colab runtime)
 
 **Input**
+
 Any color image file (.jpg, .png, etc.)
 
 ## THEORY:
